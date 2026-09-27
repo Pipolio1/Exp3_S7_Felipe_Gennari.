@@ -62,8 +62,8 @@ npm run deploy  # build + publicación en la rama gh-pages
 
 ## Enlaces
 
-- Repositorio GitHub: _(agregar URL del repositorio)_
-- Sitio desplegado (GitHub Pages): _(agregar URL de gh-pages)_
+- Repositorio GitHub: https://github.com/Pipolio1/Exp3_S7_Felipe_Gennari.
+- Sitio desplegado (GitHub Pages): https://pipolio1.github.io/Exp3_S7_Felipe_Gennari./
 
 ## Capturas de pantalla (evidencia de funcionalidades)
 
