@@ -65,16 +65,3 @@ npm run deploy  # build + publicación en la rama gh-pages
 - Repositorio GitHub: https://github.com/Pipolio1/Exp3_S7_Felipe_Gennari.
 - Sitio desplegado (GitHub Pages): https://pipolio1.github.io/Exp3_S7_Felipe_Gennari./
 
-## Capturas de pantalla (evidencia de funcionalidades)
-
-Pendientes de agregar. Checklist sugerido:
-
-1. Catálogo con tarjetas mostrando precio normal tachado y precio oferta.
-2. Producto agregado al carrito (mensaje de éxito + badge contador en navbar).
-3. Carrito con varios ítems, contador de productos y total.
-4. Carrito tras quitar un ítem (total actualizado).
-5. Filtro por categoría desde el menú desplegable.
-6. Búsqueda con resultados y búsqueda sin resultados (aviso).
-7. Persistencia: carrito intacto después de recargar la página.
-8. Sección de noticias cargada desde la API.
-9. Vistas responsivas: móvil, tablet y escritorio.
